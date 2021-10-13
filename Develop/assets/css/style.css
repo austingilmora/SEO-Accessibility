@@ -9,6 +9,10 @@ body {
     background-color: #d9dcd6;
 }
 
+p {
+    font-size: 16px;
+}
+
 /* Header and Navigation Bar styling */
 header {
     padding: 20px;
@@ -48,12 +52,6 @@ a {
     text-decoration: none;
 }
 /* END Header and Navigation Bar styling */
-
-/* Styling all paragraph elements */
-p {
-    font-size: 16px;
-}
-/* END Styling all paragraph elements */
 
 /* Styling Hero */
 .hero {
