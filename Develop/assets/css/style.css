@@ -1,3 +1,4 @@
+/* General Page styling */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header and Navigation Bar styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,11 +47,15 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/* END Header and Navigation Bar styling */
 
+/* Styling all paragraph elements */
 p {
     font-size: 16px;
 }
+/* END Styling all paragraph elements */
 
+/* Styling Hero */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +64,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* ENDStyling Hero */
 
+/* Styling Search Engine Optimization section */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,7 +82,10 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* END Styling Search Engine Optimization section */
 
+
+/*Styling Benefits Aside*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,6 +144,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*END Styling Benefits Aside*/
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -188,6 +200,7 @@ p {
     font-size: 36px;
 }
 
+/* Styling Footer */
 footer {
     padding: 30px;
     clear: both;
@@ -195,6 +208,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
+/* END Styling Footer */
